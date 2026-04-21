@@ -1,5 +1,7 @@
 # Agent Anatomy
 
+📊 **[Visual diagrams →](https://agent-anatomy.github.io/graphics/)**
+
 > Ready-to-use boilerplates for every AI coding agent.
 > Clone the one you use. Copy into your project. Edit. Ship.
 
