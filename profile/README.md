@@ -7,7 +7,17 @@
 
 ---
 
-## Boilerplates
+## Universal config
+
+**[agent](https://github.com/agent-anatomy/agent)** — Write `AGENT.md` once. Sync to every agent with one command.
+
+```bash
+npx @agent-anatomy/agent
+```
+
+---
+
+## Individual boilerplates
 
 | Agent | Config | Repo |
 |-------|--------|------|
